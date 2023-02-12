@@ -41,6 +41,8 @@ Este dataset, é constituído de imagens referentes ao manipulador, que é utili
   Antes de realizar a importação, é importante ressaltar que todo processo que está sendo realizado é levando em consideração a utilização do <a href="https://colab.research.google.com/?utm_source=scs-index">Google Collaboratory </a>. 
 
 ```bash
+%cd /content
+
 !git clone https://github.com/thauanoliveiraa/srm_dataset.git  # clonando o repositório onde o dataset está contido
 
 %cd /content/srm_dataset/  #especificando o diretório

@@ -31,6 +31,8 @@ srm_dataset
 
 Antes de realizar a importação, é importante ressaltar que todo processo que está sendo realizado é levando em consideração a utilização do Google Collaboratory .
 
+%cd /content
+
 !git clone https://github.com/thauanoliveiraa/srm_dataset.git  # clonando o repositório onde o dataset está contido
 
 %cd /content/srm_dataset/  #especificando o diretório
