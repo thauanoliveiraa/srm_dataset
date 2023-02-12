@@ -20,6 +20,7 @@ Este dataset, é constituído de imagens referentes ao manipulador, que é utili
 
     srm_dataset
     ├── README.md
+    ├── README.txt
     ├── train_data
     ├──────images
     │       ├── images.jpg
